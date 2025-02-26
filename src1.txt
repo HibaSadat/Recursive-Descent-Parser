@@ -1,0 +1,4 @@
+x := 2;
+y := 3;
+read a, b) 
+write(a, b,a+b*(2*x/y));
